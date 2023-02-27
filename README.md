@@ -13,15 +13,16 @@ This analysis was done for Alphabet Soup to predict the successfulness of applic
 # Compiling, Training, and Evaluating the Model
 * This model contained an input feature and 2 hidden layers with an activation function of "Relu" and "Sigmoid". The first layer had 80 nodes and the second layer had 30.
 
-![plot](resources/Deliverable1.png)
+![plot](Resources/Deliverable1.png) 
 
 * The ideal target model was not achieved. The goal was 75% or above and 72% was the closest performance reached.
-    # Optimization 1
-![plot](resources/deliverable2.png)
 
-    # Optimization 2
+Optimization 1
+![plot](Resources/Deliverable2.png)
 
-![plot](resources/deliverable3.png)
+
+Optimization 2
+![plot](Resources/Deliverable3.png)
 
 * In an attempt to increase the model performance, I changed the number of Epoch, the activation type, increased the number of hidden layers, and changed the number of neurons.
 
