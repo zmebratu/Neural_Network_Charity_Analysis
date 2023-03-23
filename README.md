@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview
 Over the years, Alphabet Soup has provided funds to 34,000 organizations and has requested the creation of a neural network machine learning model to predict the effectiveness of its contributions. The goal is to use the features provided in the dataset to create a binary classifier capable of predicting whether applicants will be successful if funded by Alphabet Soup.
