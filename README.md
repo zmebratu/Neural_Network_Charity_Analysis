@@ -30,7 +30,7 @@ Over the years, Alphabet Soup has provided funds to 34,000 organizations and has
 * In an attempt to increase the model performance, I changed the number of Epoch, the activation type, increased the number of hidden layers, and changed the number of neurons.
 
 ## Summary
-Upon evaluation of the outcomes of several models, with the inability to attain an accuracy rate above 75%, while also incurring a high percentage of loss, the subsequent models to be explored would be the SVM, a binary classifier, and RandomForrestClassifier.
+Upon evaluation of the outcomes of several models, with the inability to attain an accuracy rate above 72%, while also incurring a high percentage of loss, the subsequent models to be explored would be the SVM, a binary classifier, and RandomForrestClassifier.
 
 
 ## Tools
