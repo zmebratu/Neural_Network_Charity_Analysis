@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
-This analysis was done for Alphabet Soup to predict the successfulness of applicants if they were to be funded. A binary classifier will be created using the given dataset containing more than 34,000 organizations that have been funded over the years. 
+Over the years, Alphabet Soup has provided funds to 34,000 organizations and has requested the creation of a neural network machine learning model to predict the effectiveness of its contributions. The goal is to use the features provided in the dataset to create a binary classifier capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results
 
@@ -30,7 +30,14 @@ This analysis was done for Alphabet Soup to predict the successfulness of applic
 * In an attempt to increase the model performance, I changed the number of Epoch, the activation type, increased the number of hidden layers, and changed the number of neurons.
 
 ## Summary
-After conducting the analysis and not being able to obtain a 75% accuracy performance, my suggestion would be to include more data or to try another model such as RandomForrestClassifier.
+Upon evaluation of the outcomes of several models, with the inability to attain an accuracy rate above 75%, while also incurring a high percentage of loss, the subsequent models to be explored would be the SVM, a binary classifier, and RandomForrestClassifier.
+
+
+## Tools
+* Jupyter Notebooks
+* Pandas
+* sklearn
+* TensorFlow
 
 
 
